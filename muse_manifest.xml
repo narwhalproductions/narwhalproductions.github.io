@@ -1,0 +1,68 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.narwhalproductions.github.io" resolutions="1x" timestamp="1534382061571">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="contact-us.css" crc="3947062803" ref="contact-us"/>
+    <file name="index.css" crc="3864940101" ref="index"/>
+    <file name="news.css" crc="4028165870" ref="news"/>
+    <file name="games.css" crc="26449939" ref="games"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:games:news:contact-us"/>
+    <file name="museutils.js" crc="3803043152" ref="index:games:news:contact-us"/>
+    <file name="whatinput.js" crc="86476730" ref="index:games:news:contact-us"/>
+    <file name="museconfig.js" crc="380897831" ref="index:games:news:contact-us"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:games:news:contact-us"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:games:news:contact-us"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:games:news:contact-us"/>
+    <file name="webpro.js" crc="242022427" ref="index:contact-us"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index:games:news:contact-us"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:games:news:contact-us"/>
+    <file name="require.js" crc="4157109226" ref="index:games:news:contact-us"/>
+    <file name="form_check.php" crc="147359589" ref="contact-us"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact-us"/>
+    <file name="form_process.php" crc="3851993751" ref="contact-us"/>
+    <file name="form-u4751.php" crc="115473733" ref="contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="background_texture_by_ashleyt123-d6cwoi2.jpg" crc="17623868" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="445635196" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cinematic shot 5.jpg" crc="174921582" ref="index:games">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="outlast-2-main-a5014b55-379b-48ae-9e4b-d4cbe516f2cb.jpg" crc="246032873" ref="index:contact-us">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cinematic shot 1.jpg" crc="3873962294" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cinematic shot 2.jpg" crc="4061207897" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cinematic shot 3.jpg" crc="406333662" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="download.jpg" crc="3856385569" ref="games">
+      <caption webpage="games" alt=""/>
+    </file>
+    <file name="ign fake review.jpg" crc="114177545" ref="games">
+      <caption webpage="games" alt=""/>
+    </file>
+    <file name="cinematic shot 4.jpg" crc="4209546453" ref="news">
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="cinematic shot 1-u4874-fr.jpg" crc="283444193" ref="news"/>
+    <file name="cinematic shot 5-u4897-fr.jpg" crc="3956324255" ref="news"/>
+    <file name="cinematic shot 2-u4903-fr.jpg" crc="350279521" ref="news"/>
+  </folder>
+  <file name="index.html" crc="4149569509" seo="true" mt="1534375533956" redirect="true"/>
+  <file name="games.html" crc="516420549" seo="true" mt="1533945369912" redirect="true"/>
+  <file name="news.html" crc="4151352458" seo="true" mt="1533945369912" redirect="true"/>
+  <file name="contact-us.html" crc="3800508180" seo="true" mt="1533945369912" redirect="true"/>
+</manifest>
