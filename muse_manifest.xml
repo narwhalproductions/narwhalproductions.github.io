@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.narwhalproductions.github.io" resolutions="1x" timestamp="1534382061571">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.narwhalproductions.github.io" resolutions="1x" timestamp="1534382840121">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="contact-us.css" crc="3947062803" ref="contact-us"/>
-    <file name="index.css" crc="3864940101" ref="index"/>
-    <file name="news.css" crc="4028165870" ref="news"/>
-    <file name="games.css" crc="26449939" ref="games"/>
+    <file name="games.css" crc="3851265723" ref="games"/>
+    <file name="index.css" crc="328291565" ref="index"/>
+    <file name="news.css" crc="238195940" ref="news"/>
+    <file name="contact-us.css" crc="4131697648" ref="contact-us"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:games:news:contact-us"/>
@@ -61,8 +61,8 @@
     <file name="cinematic shot 5-u4897-fr.jpg" crc="3956324255" ref="news"/>
     <file name="cinematic shot 2-u4903-fr.jpg" crc="350279521" ref="news"/>
   </folder>
-  <file name="index.html" crc="4149569509" seo="true" mt="1534375533956" redirect="true"/>
-  <file name="games.html" crc="516420549" seo="true" mt="1533945369912" redirect="true"/>
-  <file name="news.html" crc="4151352458" seo="true" mt="1533945369912" redirect="true"/>
-  <file name="contact-us.html" crc="3800508180" seo="true" mt="1533945369912" redirect="true"/>
+  <file name="index.html" crc="3947543023" seo="true" mt="1534375533956" redirect="true"/>
+  <file name="games.html" crc="3965857400" seo="true" mt="1534382788065" redirect="true"/>
+  <file name="news.html" crc="392520900" seo="true" mt="1533945369912" redirect="true"/>
+  <file name="contact-us.html" crc="4140161864" seo="true" mt="1533945369912" redirect="true"/>
 </manifest>
